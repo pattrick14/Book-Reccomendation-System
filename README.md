@@ -30,12 +30,12 @@ This project is a **Book Recommendation System** that suggests books to users ba
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Book-Recommendation-System.git
-   cd Book-Recommendation-System
+   git clone https://github.com/pattrick14/Book-Reccomendation-System.git
+   cd Book-Reccomendation-System
 2. Open the Jupyter Notebook to process data and create the model:
 
    ```bash
-   jupyter notebook notebooks/recommendation_system.ipynb
+   jupyter notebook book-recommendation.ipynb
 
 3. Run the app:
    ```bash
