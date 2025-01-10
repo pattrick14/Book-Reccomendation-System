@@ -1,0 +1,2 @@
+// Download books.csv file from https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+// And save it in the data folder
